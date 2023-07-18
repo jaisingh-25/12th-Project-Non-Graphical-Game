@@ -9,3 +9,4 @@ The game starts with a menu with options like -
   3. View score of a particular player (searched by name of player)
   4. Exit
 However, options 2 & 3 will show an error if the game has never been played in the particular system as the 'scores.txt' file won't exist.
+A sample 'scores.txt' file is also available
