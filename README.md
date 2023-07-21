@@ -10,5 +10,5 @@ The game starts with a menu with options like -
   3. View score of a particular player (searched by name of player)
   4. Exit
 
-However, options 2 & 3 will show an error if the game has never been played in the particular system as the 'scores.txt' file won't exist.
-A sample 'scores.txt' file is also available
+However, options 2 & 3 will show an error if the game has never been played in the particular system as the 'scores.txt' file won't exist. The file 'scores.txt' is created only when the game is played in its entirety atleast once.
+A sample 'scores.txt' file is also available and must be stored in the same folder as the code file.
