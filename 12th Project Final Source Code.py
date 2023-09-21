@@ -1,5 +1,3 @@
-# Entire Source Code of the Game
-
 def chp_1():
     score_1=0
     print()
